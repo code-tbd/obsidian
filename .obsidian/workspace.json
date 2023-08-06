@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc47ad79d653c681",
+        "id": "094823464f3c3cfb",
         "type": "tabs",
         "children": [
           {
-            "id": "9b08c81d63e62304",
+            "id": "c20f4a0d2c57738f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,13 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9b08c81d63e62304",
+  "active": "c20f4a0d2c57738f",
   "lastOpenFiles": [
+    "go/调度器.md",
     "assets/Pasted image 20230805171553.png",
     "assets/Pasted image 20230805171400.png",
     "assets/Pasted image 20230805165948.png",
     "go/网络轮询器.md",
-    "go/调度器.md",
     "ffmpeg/使用ffmpeg实现视频流截帧转图片.md",
     "assets/Pasted image 20230803164637.png",
     "README.md",
