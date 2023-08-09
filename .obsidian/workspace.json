@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "597ed75404492fb9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9b08c81d63e62304",
+  "active": "597ed75404492fb9",
   "lastOpenFiles": [
     "go/调度器.md",
     "go/网络轮询器.md",
