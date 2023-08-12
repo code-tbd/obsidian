@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17f2d50b6030daef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kratos 环境.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go/调度器.md",
+                "file": "kratos 环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "go/调度器.md",
+                "file": "kratos 环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go/调度器.md"
+                "file": "kratos 环境.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c20f4a0d2c57738f",
+  "active": "17f2d50b6030daef",
   "lastOpenFiles": [
     "go/调度器.md",
+    "kratos 环境.md",
     "assets/Pasted image 20230805171553.png",
     "assets/Pasted image 20230805171400.png",
     "assets/Pasted image 20230805165948.png",
