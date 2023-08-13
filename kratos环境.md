@@ -77,8 +77,8 @@ errors:
   
 .PHONY: wire  
 wire:  
-    go mod tidy  
-    go get github.com/google/wire/cmd/wire@latest  
+    # go mod tidy  
+    # go get github.com/google/wire/cmd/wire@latest  
     go generate cmd/*/wire_gen.go  
   
 .PHONY: gorm  
