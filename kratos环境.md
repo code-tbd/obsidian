@@ -97,3 +97,26 @@ help:
   
 .DEFAULT_GOAL := help
 ```
+
+现成账号（一年）
+Jetbrain
+Goland
+
+账号：Robertney
+
+密码：Continue.Jb.Mkin
+
+
+特别注意：请勿擅自修改密码，擅自修改密码将会导致账号不可用，也会给您带来麻烦（擅自修改密码导致账号不可用的将无法提供售后)，账号自己使用即可，禁止第二台设备
+
+
+关于账号登陆相关步骤、问题及规范：
+
+https://m2wrmf4n6v.feishu.cn/docx/doxcnNt40ie8DbHFoivpzEkxiFb
+
+重要：软件必须要从官网下载、请勿将账号登录在已破解的软件上。
+
+
+应急账号：
+账号：Martinirk
+密码：Continue.Jb.Rose
