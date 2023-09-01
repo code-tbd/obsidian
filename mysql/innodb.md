@@ -29,3 +29,6 @@ innodb内存区组成
 ![](Pasted%20image%2020230901162159.png)
 3. Compressed和Dynamic
 ![](Pasted%20image%2020230901163450.png)
+
+页结构
+![](Pasted%20image%2020230901164518.png)
