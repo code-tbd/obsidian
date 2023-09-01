@@ -27,3 +27,5 @@ innodb内存区组成
 列还有两个隐藏列，事务ID列和回滚指针列，分别为6字节和7字节的大小。若InnoDB表没有定义主键，每行还会增加一个6字节的rowid列。
 2. Redundant格式（老版本）
 ![](Pasted%20image%2020230901162159.png)
+3. Compressed和Dynamic
+![](Pasted%20image%2020230901163450.png)
